@@ -50,7 +50,7 @@ swapCase('Tonight on XYZ-TV');      // "tONIGHT ON xyz-tv"
 ```
 
 5. Write a function that takes a string argument and returns that string with alternating cases for letter characters. The first letter character should be capitalized and subsequent letter characters will be alternating between lower and upper case. **Non-alphabetic characters should not be counted toward the alternation pattern.**
-
+ 
 ```javascript
 staggeredCase('I Love Launch School!');        // "I lOvE lAuNcH sChOoL!"
 staggeredCase('ALL CAPS');                     // "AlL cApS"
